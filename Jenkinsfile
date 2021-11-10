@@ -44,7 +44,7 @@ pipeline {
 
                             version: 'pom.1.0-SNAPSHOT',
 
-                            repository: 'repository/maven-central-hosted',
+                            repository: 'maven-central-hosted',
 
                             credentialsId: 'NEXUS-CRED',
 
